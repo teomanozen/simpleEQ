@@ -157,6 +157,9 @@ void TictacteoEQAudioProcessor::processBlock (juce::AudioBuffer<float>& buffer, 
 
     juce::dsp::AudioBlock<float> block(buffer);
     
+   // int numChannels = block.getNumChannels();
+   // jassert(numChannels == 2); // Ensure that the buffer contains stereo data
+    
     auto leftBlock = block.getSingleChannelBlock(0);
     auto rightBlock = block.getSingleChannelBlock(1);
     
