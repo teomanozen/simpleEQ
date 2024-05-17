@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FILTERGRAPH>
-  <FILTER uid="1" x="0.5" y="0.1" useARA="0">
+  <FILTER uid="1" x="0.615" y="0.08846153846153847" useARA="0">
     <PLUGIN name="Audio Input" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uniqueId="246006c0"
             isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
@@ -16,7 +16,7 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="2" x="0.7775" y="0.3770491803278688" useARA="0">
+  <FILTER uid="2" x="0.7837499999999999" y="0.08076923076923077" useARA="0">
     <PLUGIN name="MIDI Input" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uniqueId="a9e4f9eb"
             isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
@@ -31,7 +31,7 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="3" x="0.43" y="0.8096153846153846" useARA="0">
+  <FILTER uid="3" x="0.72875" y="0.8483606557377049" useARA="0">
     <PLUGIN name="Audio Output" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uniqueId="724248cb"
             isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="1"
@@ -46,7 +46,7 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="4" x="0.25" y="0.9" useARA="0">
+  <FILTER uid="4" x="0.78125" y="0.2192307692307692" useARA="0">
     <PLUGIN name="MIDI Output" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uniqueId="9d5bbb00"
             isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
@@ -61,11 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="8" x="0.205" y="0.2561475409836065" useARA="0" uiLastX_Normal="123"
-          uiLastY_Normal="388" uiopen_Normal="0">
+  <FILTER uid="8" x="0.17625" y="0.04807692307692308" useARA="0" uiLastX_Normal="123"
+          uiLastY_Normal="388" uiopen_Normal="1">
     <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
             manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="18f61ca716f"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="18f7b502fb6"
             numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="6163676e"/>
     <STATE>803.hAGaoMGcv.C1AHv.DTfAGfPBJr.IkXxIpvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPhxfFR2fCO.AVFkFak4TXsU1URU1Yo8lay8EDf8RUyUlby8RXxQGZx8FbuQVXuzTcyk1XuzTcyk1XuzTYjkVXtv1aiEFaooWYj8RS0MWZi8RUtslaucmafDjbzk1bz8RUtslaucmafDDahUWauPTQM8TKwzhQUwDStzFbyDZDTKwDTTgEWfQFdIUYmk1atQzakMGSu8FbZIUYmk1atQTXzE1WP.QRyMUYrU1XzUFYRU1Yo8laZIUYmk1at4TXsUFBOAAb...........vvyi...F...................13FED...............................P.................................................fOHv...........fdPL...9b.kfVNU1cfHUYmk1atMcCNrAGcfgWIM2TkwVYiQWYjYTZrU1WPXxKUMWYxM2KgIGcnI2av8FYg8BQkM2Zz8FbuPUQSQEHWEjUtbWX1EpGTKwDTTgEffgHH7DDvA..........+++++C.....TJZ2GA.....1SQtV.....C..........IKZ2GA....f2SQtV.....A....D..........................................A...............3tVB......PBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claRiRJOvgUFkFakARLVYTZrUFHxfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6Afe.LH.LB.k.bO.4Gf.ADQ.bDvKAnS.6DfqA7Z.5FPvA.c.4Gv9BPf.EH.dBjm.DJPgBnn.LJPjBXo.cJ.o........BD..........q...................BzJ</STATE>
@@ -76,28 +76,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="9" x="0.8149999999999999" y="0.6576923076923077" useARA="0"
-          uiLastX_Normal="379" uiLastY_Normal="168" uiopen_Normal="0">
-    <PLUGIN name="NewProject" format="VST3" category="Fx" manufacturer="yourcompany"
-            version="1.0.0" file="/Users/arthropoda/Library/Audio/Plug-Ins/VST3/NewProject.vst3"
-            uniqueId="f49cd51f" isInstrument="0" fileTime="18f5db996f8" infoUpdateTime="18f61ca7170"
-            numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
-            uid="acf5fa19"/>
-    <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
-    <LAYOUT>
-      <INPUTS>
-        <BUS index="0" layout="L R"/>
-      </INPUTS>
-      <OUTPUTS>
-        <BUS index="0" layout="L R"/>
-      </OUTPUTS>
-    </LAYOUT>
-  </FILTER>
-  <FILTER uid="10" x="0.27125" y="0.6403846153846153" useARA="0" uiLastX_Normal="493"
-          uiLastY_Normal="25" uiopen_Normal="1">
+  <FILTER uid="10" x="0.1325" y="0.5153846153846153" useARA="0" uiLastX_Normal="244"
+          uiLastY_Normal="226" uiopen_Normal="1">
     <PLUGIN name="Distortion" format="VST3" category="Fx" manufacturer="tictacteo"
             version="1" file="/Users/arthropoda/Library/Audio/Plug-Ins/VST3/Distortion.vst3"
-            uniqueId="fa68d61d" isInstrument="0" fileTime="18f5edda498" infoUpdateTime="18f61ca7170"
+            uniqueId="fa68d61d" isInstrument="0" fileTime="18f5edda498" infoUpdateTime="18f7b502fb7"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="acf7f13c"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -110,11 +93,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="11" x="0.23375" y="0.4923076923076923" useARA="0" uiLastX_Normal="171"
-          uiLastY_Normal="228" uiopen_Normal="0">
+  <FILTER uid="11" x="0.1125" y="0.3115384615384615" useARA="0" uiLastX_Normal="372"
+          uiLastY_Normal="588" uiopen_Normal="0">
     <PLUGIN name="tictacteoEQ" format="AudioUnit" category="Effect" manufacturer="tictacteo"
             version="1.0.0" file="AudioUnit:Effects/aufx,Ro16,Manu" uniqueId="7e7b393b"
-            isInstrument="0" fileTime="0" infoUpdateTime="18f61ca7170" numInputs="2"
+            isInstrument="0" fileTime="0" infoUpdateTime="18f7b502fb7" numInputs="2"
             numOutputs="2" isShell="0" hasARAExtension="0" uid="7e7b393b"/>
     <STATE>261.hAGaoMGcv.y0AHv.DTfAGfPBJHwDTTAWsEla0YVXiQWcxUlbTQVXzEFWkwVYsUlaz0hag0VYWMWchQWdvU1U1Ulbyk1atQEc4AWYT4VXsUlDMEla08DDDA..............GPA7cmgOei84TDuDf7C....LK1hB.....PyVp4aO55BidUgZKB....PXOFQV.....X1Fki4O.B..Ru.CM.QTwDkLQ6vCQASUI4Fb0QWzNDgUOUGcvUGcRH0awXCD.HQX0YFdXUkazkFcrUFYHbAIoXiOFsDTUwYniVJppB6r59avFC.......DP..........XA...................vy</STATE>
     <LAYOUT>
@@ -126,10 +109,84 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
+  <FILTER uid="13" x="0.14" y="0.6615384615384615" useARA="0" uiLastX_Normal="187"
+          uiLastY_Normal="707" uiopen_Normal="1">
+    <PLUGIN name="circularBufferDelay" format="VST3" category="Fx" manufacturer="tictacteo"
+            version="1.0.0" file="/Users/arthropoda/Library/Audio/Plug-Ins/VST3/circularBufferDelay.vst3"
+            uniqueId="fa9ce41e" isInstrument="0" fileTime="18f670f5468" infoUpdateTime="18f7b502fb7"
+            numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="acf8b623"/>
+    <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="14" x="0.4375" y="0.8627049180327869" useARA="0" uiLastX_Normal="1064"
+          uiLastY_Normal="374" uiopen_Normal="1">
+    <PLUGIN name="Pro-L 2" format="VST3" category="Fx|Dynamics" manufacturer="FabFilter"
+            version="2.2.2.0" file="/Library/Audio/Plug-Ins/VST3/FabFilter Pro-L 2.vst3"
+            uniqueId="45398b95" isInstrument="0" fileTime="18c81fbad60" infoUpdateTime="18f7b502fb7"
+            numInputs="4" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="a3317650"/>
+    <STATE>408.VMjLg7X....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DCNw3hQEwFVFkjKt3hKPYjKt3hKVgSLXc1cwHlY5IDRNUjQiASRWgkbAIzTuAiUZo2ZrEVaA4hKt3hKH4hKt3hKt3hKt3hKtX1P5A0ZiE2SwkVRtgCUwr1XyLjKt3hcO4hKt3xJt3hKt3hKt3hKt3hKt3hKt3hKt3RNC4hKt3hKt3hKt3RPt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3RNC4hKt3hKt3hKt3hKt3hK4LjKt3hKt3hKt3hKA4hKtjyPt3hKt3hKt3hKt3hKtXVQL4hKt3hKt3hKlshKt3hKt.kKt3hKtDjKt3hKtvyKIMzasA2atUlaz4COIUDYoQ2Pu4Fcx8FarUlb9DiLtXTVTkkZA4hKt3hKt3hKy7DOujTQjkFcC8lazI2arwVYx4COuX0TTMCTrU2Yo41TzEFck4C.</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+        <BUS index="1" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="15" x="0.39875" y="0.3211538461538462" useARA="0" uiLastX_Normal="148"
+          uiLastY_Normal="153" uiopen_Normal="0">
+    <PLUGIN name="Ozone 11 Maximizer" format="VST3" category="Fx|Dynamics"
+            manufacturer="iZotope" version="11.0.0" file="/Library/Audio/Plug-Ins/VST3/Ozone 11 Maximizer.vst3"
+            uniqueId="12f01b9f" isInstrument="0" fileTime="18dfef69a4a" infoUpdateTime="18f7b502fb7"
+            numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="9a28be37"/>
+    <STATE>2342.VMjLgzQB...O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DiMzPiKjEGRZ4BTt3hKt3BVF4hKt7DVF4hKlcTayISVVMUSN4DTtLiLzb0YvcSMzQEL1Aic1YEL4.kSy.mRBoVPGYVVsMWLGQTLMQzbHE1ZUYkQHkGU4sBNvb0YDIlbos1XxIFQuIGYmozUvsBUxLWMzMmbqMSagcFTtY0XY4jPyTUP3AkYEA0R5UlY4jkcgczMIMTaL4zMMoELogkRHwzQLUlTwUVY0bDYKwVM3PWcjYWXjozZi8DanQGM2PTYPQFNwHUM4MyS0PjS2TlQrgkRLMWXVMSb23TVhkGMNgFQ3PlTYIWX38DNWszM3DVSlUCNHcWPikTLVITVZgzLD01Q4EEbyUSZksFVSkSP1EVR0cyZgwzRscSc0bDSG4xX4XFctMlZsYVdtfWZoQDMoYWRTYjSOgSN4bTNI81Z1LFQKcmavEkb1HWdjIURW4zLBglRvf1QvrFc341bM4hRXojKKoVPzD0QqjjTiczY3zzJ3jkUjomR381UFUGYoEkbWAUal0TQLkCQTImPYgTN4bSPtMTZQkWPtDjLCoVQm41c3nEapcFQvUlbQoTXLYVMi8TMJMUP4jUUEsRVwwDYvbCUvnkKrk1biE2MyD2X3LiX1EETsYFcqMiTzIyUy8jK13hdJkkZJQyMz0VRL8jLZE0M38laWYkbqHFZAo1T2jCUpkWSxHFY0UUTLcjXXICY3jCdsoUciIyPxXiayIScWIyXxjiaNczMqM2SuMVazcDY5kiMzUlMCEyXjITLZQ2JFc1TwQlQCAmZn4hP0zVZuY1b0YCUvXSawDSdnY2MUYjY0k0YsUmMQwFdHcUREsRQncDRK0zYPI0YzoldBkTQgg1cSUyJnUTazQjLMc1cBAkLBI1Uqbmaxo2ZzvDapI2b1cCah4FMVgDRNMWbYAka3ECYBESLWg2LwfEb0UWcx41ZYQkMp41ZVImMBAkLYQjLlwjRU4jUOY1azEmPWkSR2nlUWkzbYIVaL4hRqICYmIyRq4BL3fDZQACdLUmSSYTZiMURtHUMnM0Zz4TTCQCTkoEUGoTLz7lYYISMlU2TLg0TzjGazPiZYEUMIEzTZsRaEA2TQ4ja0LkXBkmMmYjKyzFbjk2LJ4FczYjXYQ0SmojPYYkTis1cHcCVkUlRUkUPxTmZTEkalk1akomTLICaz.ESvjTZXYVL0H0SgQ0QRoELXolSVozR2ICSpIDSpUUYDcCdzTUQ1kGdVMiYRk1TVkDU3IzQUckPUIlQIMGbw7FZvkFcFYzPXEjSyHTYzoVThEDUX8TU0k2LJkUPAcGaxX2Zvg0PtY1MxzjXJAWa4DmPNYDLYglatXkSxszMzfyZ2nUQZsBU1Dyb1HFMkgybQkVcq3TMssRNx3zJOsBVyDyURcUbSMjU3DWdiYjMIcmTOQGdNY0YqISQJcWZiIDaHAWQYYCUTEkcqETQU8zcg4TZiETRgEScDMVP2Xldv7zZ3.mQso1bnYET1ciK2wTYBImdPoFTWgicCQmYj8lbzQVVxr1YZwlawcCQZw1PvPEZ5kzSvIycpQFMRUTZrYTMS0jZSIGLOglduoGY4IDUuMTbqjmXNQSMt3TbsUENiUkRmsjTAECUCIiVGslVuYDcXE2XSEkXvcTR3nTZgMUThg2Tp4DMQACUDcURPA2aHQ2MXE2aHQWS1g1LVAWY0kSYxTFL2fFanoGcMUkSuQlZ5Emdh0TUNkzSQUiZGU0TqM0Zt7FaJ0FdoMGaJ0VLXAmXJI1P2Q0Pvrza0fFUnESLHcmM00FVmU0LBUEZ4.SPKIUazMmQicmauEUUiYzTT8jPWwTPiITQKgyTh4VMBkEbW8Dc2YjP1YUSOcmbUIFSlsjYsEjRv8DRtP1b3XGStUicAsjSrkCTyrTUAYkcZYCYYQUarYGdyoFNk4lbmkWLG4DbxnGLhElaV4jRicDM1PCVJgWLVolZFQSduUkdsUULEIiLgcVdHYkMYISMvzTMvkDLI8DRUcTTJYybFMFYlUDbogFa2MVSXQSQNgCLEMVPlQiS0fGYvfDaQsBbVMiKCMVP2E0RzgEbXAmQNg1PzkFVTszbT0VSpk1XhkTPjQ1cgQkPMIDcKgUcDwFRvbEUzIUcNsDLtbkQxcDQi8lZ2oUZ0TidqcyLm0FQDAyXIwzYzIiYvHlS2LjKz8VcwUTT4fkb3MkLWoDSjkyYEwVZMIWZEA2Srsha2nkSqokP0Y1LJ4RSAsFMsEyXGgjRw3TaRMVNWUTdZ8lTNQVQUMCbxQULzE1aVUmR3.SdUEGUTUkT1QyXPAkQMsRNxzFRxgCVqbiXZU0M07VRPUyTjMFN13zJFwDLzXjZNMEVFMDaB4Da4DSLwnGTLEUNxcDbCEGZWk0aB0DV4YVRjc0b0XTNBQSc4MFbxAmLXUCaUcEMhIFc4.yXCgSdm4RPxTWQOszQ1ASQ3HiUikSav0FbyIyat4DVqQGS2T0UUUEdvbSR4PzPZc1Pvnld2QkMWcGctc1T541atcEUlokLYg1PNkiV0HybOkUa17jMwshU1vlUSE2avnmVZ0zbrY0Tw8FL5oWarw1XnkEU2c0cocVSokjQmIzSUETTgA0QSg1aOQWLtMmZmEGdpc0Xxc0RTQ2cgUCTzLzY3nEMKYSas0Db3jmKGsBRlQWZyf0cjETVTY1PyHUQ0wlZ4X2Xq8jXTcCV3Djalk1JOoWVAISSwcFQzLVcTESVoESXhUDYBM0JFIVM2IEcOsVSqIlbyUkVqLVU0zVcxnjPqIkdTk0XjkDcnEEdxPkUFgmLOQlR0HTTFgCRiI1MWEEMqY1RIgFL1kVPSYWVVAmU2UUYOcEZYY2JP0jXJYGMh8lToE0aWQiZ0YjcVImbkokXSgWTUgEbpoDR1YUV2.mdNECL1j1JWYzSM0jVFUScDQiZsEyRD0VUvcUL0bUX3rhKqcScRIGOujzPu0Fbu4VYtQmO7jTQjkFcC8lazI2arwVYx4CLtvyKIUDYoQ2Pu4Fcx8FarUlb9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="16" x="0.1575" y="0.8790983606557377" useARA="0">
+    <PLUGIN name="reverb" format="VST3" category="Fx" manufacturer="yourcompany"
+            version="1.0.0" file="/Users/arthropoda/Library/Audio/Plug-Ins/VST3/reverb.vst3"
+            uniqueId="599a319" isInstrument="0" fileTime="18f7b4284a0" infoUpdateTime="18f7b502fba"
+            numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="acfda311"/>
+    <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
   <CONNECTION srcFilter="8" srcChannel="0" dstFilter="11" dstChannel="0"/>
   <CONNECTION srcFilter="8" srcChannel="1" dstFilter="11" dstChannel="1"/>
-  <CONNECTION srcFilter="10" srcChannel="0" dstFilter="3" dstChannel="0"/>
-  <CONNECTION srcFilter="10" srcChannel="1" dstFilter="3" dstChannel="1"/>
+  <CONNECTION srcFilter="10" srcChannel="0" dstFilter="13" dstChannel="0"/>
+  <CONNECTION srcFilter="10" srcChannel="1" dstFilter="13" dstChannel="1"/>
   <CONNECTION srcFilter="11" srcChannel="0" dstFilter="10" dstChannel="0"/>
   <CONNECTION srcFilter="11" srcChannel="1" dstFilter="10" dstChannel="1"/>
+  <CONNECTION srcFilter="13" srcChannel="0" dstFilter="16" dstChannel="0"/>
+  <CONNECTION srcFilter="13" srcChannel="1" dstFilter="16" dstChannel="1"/>
+  <CONNECTION srcFilter="14" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="14" srcChannel="1" dstFilter="3" dstChannel="1"/>
+  <CONNECTION srcFilter="16" srcChannel="0" dstFilter="14" dstChannel="1"/>
+  <CONNECTION srcFilter="16" srcChannel="1" dstFilter="14" dstChannel="0"/>
 </FILTERGRAPH>

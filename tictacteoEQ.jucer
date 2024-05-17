@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="rO16W5" name="tictacteoEQ" projectType="audioplug" useAppConfig="0"
+<JUCERPROJECT id="rO16W5" name="Equalizer" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              pluginManufacturer="tictacteo">
-  <MAINGROUP id="fVQxI4" name="tictacteoEQ">
+              pluginManufacturer="tictacteo" companyName="tictacteo">
+  <MAINGROUP id="fVQxI4" name="Equalizer">
     <GROUP id="{6C686DED-DB5A-48AD-E874-B978A73C3646}" name="Source">
       <FILE id="LRo6GT" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
